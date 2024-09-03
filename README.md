@@ -15,7 +15,7 @@ This project analyzes web page URL phishing data to determine which fields in a 
   
 ## How to Use
 
-1. Download the CSV files from the above link.
+1. Download the CSV file from the above link.
 2. Clone the repository: `git clone https://github.com/yourusername/web-page-phishing-analysis.git`
 3. Open the PDF file to view the analysis.
 4. You may replicate the results using pgAdmin in conjunction with postgresql, or any SQL client of your choice.
