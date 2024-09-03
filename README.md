@@ -8,7 +8,9 @@ This project analyzes web page URL phishing data to determine which fields in a 
 
 ## Technologies Used
 
+- **SQL**
 - **PostgreSQL**
+- **Excel**
 - **pgAdmin**
 - **Python (Optional)**: For any additional scripting or visualization.
 
