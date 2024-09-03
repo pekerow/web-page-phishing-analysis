@@ -12,8 +12,7 @@ This project analyzes web page URL phishing data to determine which fields in a 
 - **PostgreSQL**
 - **Excel**
 - **pgAdmin**
-- **Python (Optional)**: For any additional scripting or visualization.
-
+  
 ## How to Use
 
 1. Clone the repository: `git clone https://github.com/yourusername/web-page-phishing-analysis.git`
