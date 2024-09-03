@@ -22,4 +22,4 @@ This project analyzes web page URL phishing data to determine which fields in a 
 
 ## Summary
 
-The document provides insights into the characteristics of phishing URLs, including the significance of URL length, special characters, and other attributes.
+The PDF document provides insights into the characteristics of phishing URLs, including the significance of URL length, special characters, and other attributes.
