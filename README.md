@@ -1,6 +1,6 @@
 # Web Page Phishing Analysis
 
-This project analyzes web page URL phishing data to determine which fields in a URL suggest that the URL may be phishing.
+This project analyzes web page URL phishing data to determine which fields in a URL suggest that the URL may be phishing. The original dataset is from Kaggle and can be viewed [here](https://www.kaggle.com/datasets/danielfernandon/web-page-phishing-dataset?resource=download) (Dataset 2.
 
 ## Document Overview
 
